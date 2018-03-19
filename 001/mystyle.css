@@ -8,3 +8,16 @@
     font-size:  1.5em; 
 }
 
+
+.field-label-input{
+    padding-top: .5rem;
+    text-align: right;
+
+
+}   
+
+.red{
+background-color: #ff0000;
+
+
+}
